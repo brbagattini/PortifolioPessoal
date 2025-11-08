@@ -1,5 +1,5 @@
-import SearchBar from "../components/SearchBar";
-import projetos from "./data";
+import SearchBar from "../components/Searchbar.jsx";
+import projetos from "./data.js";
 import { useState } from "react";
 
 export default function Projetos() {
