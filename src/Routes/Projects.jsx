@@ -1,4 +1,4 @@
-import SearchBar from "../components/Searchbar.jsx";
+import SearchBar from "../Components/Searchbar.jsx";
 import projetos from "./data.js";
 import { useState } from "react";
 
